@@ -1,6 +1,6 @@
 ﻿using System;
  
-namespace vtoraya_cifra
+namespace delete_vtoraya_cifra
 {
     class Program
     {
